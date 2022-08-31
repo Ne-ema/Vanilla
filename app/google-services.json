@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "334377513551",
+    "firebase_url": "https://myvanilla-f496a-default-rtdb.firebaseio.com",
+    "project_id": "myvanilla-f496a",
+    "storage_bucket": "myvanilla-f496a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:334377513551:android:8a52ca1f84ddbedd53703a",
+        "android_client_info": {
+          "package_name": "com.Neema.Vanilla"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "334377513551-aoi7uthbeosrkcvoigdgec9rg9u6sqp4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvwt0tiR0znEVVPdR8wD8piAoLkn4VdiE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "334377513551-aoi7uthbeosrkcvoigdgec9rg9u6sqp4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:334377513551:android:b7785374be28682153703a",
+        "android_client_info": {
+          "package_name": "com.example.tupac"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "334377513551-aoi7uthbeosrkcvoigdgec9rg9u6sqp4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvwt0tiR0znEVVPdR8wD8piAoLkn4VdiE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "334377513551-aoi7uthbeosrkcvoigdgec9rg9u6sqp4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:334377513551:android:80bae528f50a457a53703a",
+        "android_client_info": {
+          "package_name": "com.krish.connectupg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "334377513551-aoi7uthbeosrkcvoigdgec9rg9u6sqp4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvwt0tiR0znEVVPdR8wD8piAoLkn4VdiE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "334377513551-aoi7uthbeosrkcvoigdgec9rg9u6sqp4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
